@@ -4,7 +4,7 @@
 
 Projeto criado através da API https://openweathermap.org/api, que busca trazer o clima das cidades do Brasil e também de fora
 
-# Referencia
+# Referência
 
 https://openweathermap.org/api
 
