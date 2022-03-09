@@ -19,6 +19,3 @@ Html5, Css3 e JavaScript
 -Após de inserir o dado
 
 ![dps](https://user-images.githubusercontent.com/88117835/157347169-8df08b91-a298-4ff7-aff3-a96ac397c912.PNG)
-
-
-
